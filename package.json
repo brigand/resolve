@@ -1,7 +1,7 @@
 {
   "name": "resolve-with-root-import",
   "description": "resolve like require.resolve() on behalf of files asynchronously and synchronously",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/browserify/node-resolve.git"
